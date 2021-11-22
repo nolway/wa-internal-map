@@ -2016,7 +2016,7 @@
                 {
                  "height":0,
                  "id":67,
-                 "name":"sofa",
+                 "name":"sofaWebsite",
                  "point":true,
                  "properties":[
                         {
@@ -2040,7 +2040,7 @@
                          "value":"admin"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":3062,
@@ -2120,7 +2120,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"script.js"
+         "value":"dist\/script.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
